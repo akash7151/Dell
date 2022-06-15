@@ -13,6 +13,9 @@ public class Demo {
 	public void m4(){
 		System.out.println("m4");
 	}
+	public void m5(){
+		System.out.println("m5");
+	}
 	public static void main(String[] args) {
 System.out.println("Main method");
 	}
